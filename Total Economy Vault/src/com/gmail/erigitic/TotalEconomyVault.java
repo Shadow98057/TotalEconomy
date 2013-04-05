@@ -8,4 +8,8 @@ public class TotalEconomyVault extends JavaPlugin {
 		
 	}
 	
+	public void onDisable() {
+		
+	}
+	
 }
